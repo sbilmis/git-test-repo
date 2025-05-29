@@ -1,1 +1,1 @@
-Hello from conflict branch
+This is a shared line
