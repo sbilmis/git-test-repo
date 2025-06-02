@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This line was changed in branch B
+=======
+This line was changed in branch A
+>>>>>>> feature/conflict-a
+This line combines both A and B changes
