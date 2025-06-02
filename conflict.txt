@@ -1,1 +1,1 @@
-This line will conflict
+This line was changed in branch B
